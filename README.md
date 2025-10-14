@@ -2,7 +2,7 @@
 ## UNIDAD 2. PROGRAMACIÓN ORIENTADA A OBJETOS PARA VIDEOJUEGOS
 
 #### Adrian Morales López
-#### GIDS5051
+#### GIDS5101
 
 ## ***TABLA DE CONTENIDO***
 1. [Desafío 2](#desafio-2---viernes-3-de-octubre)
