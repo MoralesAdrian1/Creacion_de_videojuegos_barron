@@ -27,7 +27,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 
 #### Evidencia
 
-<a href="https://drive.google.com/file/d/1GllRN0AGZ9umV73686p6CbgUaJFYvpvu/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1XXMiRTsi_Z2lzrQhXLjjai6wp_vlld4B/view?usp=drive_link">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24" style="vertical-align:middle; margin-right:4px;">
   PDF evidencia de autoría
 </a>
