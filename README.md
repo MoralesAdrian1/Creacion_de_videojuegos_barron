@@ -51,7 +51,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 ### Desafio 3 menu <a id="desafio-3-menu"></a>
 #### Resultado
 
-<img width="1190" height="567" alt="image" src="./evidencia Menu" />
+<img width="1190" height="567" alt="image" src="./evidencia Menu.png" />
 
 #### Evidencia
 
