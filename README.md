@@ -36,7 +36,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 </a>
 <br>
 <br>
-<a href="./Leccion_1_package.unitypackage">
+<a href="">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Evidencia package Lección 1
 </a>
