@@ -26,7 +26,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 ### Lección 1: El control del jugador <a id="leccion-1-el-control-del-jugador"></a>
 #### Resultado
 
-<img width="1269" height="636" alt="image" src="" />
+<img width="1269" height="636" alt="image" src="./evidencia 2.png" />
 
 #### Evidencia
 
