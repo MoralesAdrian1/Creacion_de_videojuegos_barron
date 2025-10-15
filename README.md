@@ -14,7 +14,7 @@
 ### Desafio 2 - Viernes 3 de octubre <a id="desafio-2---viernes-3-de-octubre"></a>
 Este desafio se entrego en clase, se adjunta evidencia de resultado final
 #### Resultado
-<img width="1272" height="388" alt="image" src="" />
+<img width="1272" height="388" alt="image" src="evidencia.png" />
 
 <a href="https://drive.google.com/file/d/1XXMiRTsi_Z2lzrQhXLjjai6wp_vlld4B/view?usp=drive_link">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24" style="vertical-align:middle; margin-right:4px;">
