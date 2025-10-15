@@ -67,7 +67,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 </a>
 <br>
 <br>
-<a href="https://drive.google.com/file/d/1BULWCDsQBrOZFkST4OV1axcnWZyiPRrU/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1dKnx_aFzj9kcLXgiexcV7XIiREFexUYz/view?usp=drive_link">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Video evidencia Lección 1
 </a>
