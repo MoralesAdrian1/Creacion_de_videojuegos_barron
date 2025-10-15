@@ -14,7 +14,7 @@
 ### Desafio 2 - Viernes 3 de octubre <a id="desafio-2---viernes-3-de-octubre"></a>
 Este desafio se entrego en clase, se adjunta evidencia de resultado final
 #### Resultado
-<img width="1272" height="388" alt="image" src="https://github.com/user-attachments/assets/ea398741-58ce-4dcb-9aed-0238f1aa61d9" />
+<img width="1272" height="388" alt="image" src="" />
 
 [🎥 Video evidencia de autoria]()
 
@@ -23,7 +23,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 ### Lección 1: El control del jugador <a id="leccion-1-el-control-del-jugador"></a>
 #### Resultado
 
-<img width="1269" height="636" alt="image" src="https://github.com/user-attachments/assets/7fc0da0e-5449-40af-8de0-f070d46e319e" />
+<img width="1269" height="636" alt="image" src="" />
 
 #### Evidencia
 
