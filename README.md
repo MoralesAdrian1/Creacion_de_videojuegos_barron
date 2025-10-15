@@ -5,6 +5,9 @@
 #### GIDS5101
 
 ## ***TABLA DE CONTENIDO***
+# Tutoriales
+
+# Videos Tutoriales
 1. [Desafío 2](#desafio-2---viernes-3-de-octubre)
 2. [Lección 1: El control del jugador](#leccion-1-el-control-del-jugador)
 3. [Desafío 3: Creación de un menú](#desafio-3-menu)
