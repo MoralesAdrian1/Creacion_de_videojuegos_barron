@@ -36,7 +36,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 </a>
 <br>
 <br>
-<a href="">
+<a href="./package 2.unitypackage">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Evidencia package Lección 1
 </a>
@@ -62,9 +62,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 <br>
 <br>
 
-**Debido a las limitaciones de subida de archivo, se subio a drive ya que el archivo peso mas de 25MB**
-
-<a href="https://drive.google.com/file/d/1l-TwTsoMgVv8_tTV4A3Vn0kX0vQLtB5C/view?usp=drive_link">
+<a href="./package 3.unitypackage">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Evidencia package Lección 1
 </a>
