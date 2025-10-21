@@ -15,6 +15,7 @@
    - [Video 2: El control del jugador](#video-2-el-control-del-jugador)
    - [Video 3: Frutas y salto mejorado](#video-3-frutas-y-salto-mejorado)
    - [Video 4: Animaciones](#video-4-animaciones)
+   - [Video 5: Enemigos](#video-5-enemigos)
 
 ---
 
