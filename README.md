@@ -162,3 +162,27 @@ Este desafío se entregó en clase. A continuación se muestra la evidencia del 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Video evidencia
 </a>
+
+### 🕹️ Video 6: Nuevo Nivel
+#### 🖼️ Resultado
+<img width="1269" height="636" alt="image" src="./tuto6.png" />
+
+#### 📄 Evidencias
+<a href="https://drive.google.com/file/d/1q1QAqbVlsMiP14Lr8T-Y_46TZK8MkWuh/view?usp=drive_link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24" style="vertical-align:middle; margin-right:4px;">
+  PDF evidencia de autoría
+</a>
+
+<br><br>
+
+<a href="./package 7.unitypackage">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  Evidencia package
+</a>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1f4Wq0PcPMt_4sQA6RBjf_LA-tz51R4dS/view?usp=drive_link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  Video evidencia
+</a>
