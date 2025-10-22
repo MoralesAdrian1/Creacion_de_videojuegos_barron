@@ -139,6 +139,8 @@ Este desafío se entregó en clase. A continuación se muestra la evidencia del 
   Video evidencia
 </a>
 
+---
+
 ### 🕹️ Video 5: enemigos
 #### 🖼️ Resultado
 <img width="1269" height="636" alt="image" src="./tuto5.png" />
@@ -162,6 +164,8 @@ Este desafío se entregó en clase. A continuación se muestra la evidencia del 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Video evidencia
 </a>
+
+---
 
 ### 🕹️ Video 6: Nuevo Nivel
 #### 🖼️ Resultado
