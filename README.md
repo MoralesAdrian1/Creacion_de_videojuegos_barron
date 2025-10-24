@@ -216,3 +216,29 @@ Este desafío se entregó en clase. A continuación se muestra la evidencia del 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Video evidencia
 </a>
+
+---
+
+### 🕹️ Video 8: Hit y Transición
+#### 🖼️ Resultado
+<img width="1269" height="636" alt="image" src="./tuto7.png" />
+
+#### 📄 Evidencias
+<a href="https://drive.google.com/file/d/1EKtA9vDq3VPtl1g7JHoafNWXzT9PWGGN/view?usp=drive_link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24" style="vertical-align:middle; margin-right:4px;">
+  PDF evidencia de autoría
+</a>
+
+<br><br>
+
+<a href="./package 9.unitypackage">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  Evidencia package
+</a>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/16ETd43OyypKN5sMViolQR3ZJ7ukL6jCv/view?usp=drive_link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  Video evidencia
+</a>
