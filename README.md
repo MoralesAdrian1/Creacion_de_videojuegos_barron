@@ -23,6 +23,7 @@
    * [Video 7: CheckPoint](#-video-7-checkpoint)
    * [Video 8: Hit y Transición](#-video-8-hit-y-transición)
    * [Video 9: Doble Salto y Caída](#-video-8-hit-y-transición)
+   * [Video 10: Plataformas](#-video-8-hit-y-transición)
 
 ---
 
@@ -304,3 +305,33 @@ Este desafío se entregó en clase. A continuación se muestra la evidencia del 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24">
   Video evidencia
 </a>
+
+---
+
+### 🕹️ Video 10: Plataforma
+
+#### 🖼️ Resultado
+
+<img width="1269" height="636" alt="image" src="./tuto7.png" />
+
+#### 📄 Evidencias
+
+<a href="https://drive.google.com/file/d/1833efIA1JMGL7kS6cyMLevpkfvzZRIjg/view?usp=drive_link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24">
+  PDF evidencia de autoría
+</a>
+
+<br><br>
+
+<a href="./package 11.unitypackage">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24">
+  Evidencia package
+</a>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1bhjUddBN1WTFb74-7EEuxmYpgXDxjzQH/view?usp=drive_link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24">
+  Video evidencia
+</a>
+
