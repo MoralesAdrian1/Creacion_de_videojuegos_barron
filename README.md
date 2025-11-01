@@ -72,7 +72,34 @@ Este desafío se entregó en clase. A continuación se muestra la evidencia del 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Video evidencia
 </a>
+---
 
+### 🎮 Desafío  - Selección de personajes
+
+#### 🖼️ Resultado
+
+<img width="1190" height="567" alt="image" src="./SeleccionPersonaje.png" />
+
+#### 📄 Evidencias
+
+<a href="https://drive.google.com/file/d/1VJ-dwoMciO9bQv231I2Mc4JVeb5VGyaq/view?usp=drive_link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24" style="vertical-align:middle; margin-right:4px;">
+  PDF evidencia de autoría
+</a>
+
+<br><br>
+
+<a href="./seleccion.unitypackage">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  Evidencia package
+</a>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1D9UilsbWEUh-fmYussCnPiEHv7JPZf2K/view?usp=drive_link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  Video evidencia
+</a>
 ---
 
 ## 🎥 Video Tutoriales
